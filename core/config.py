@@ -24,11 +24,11 @@ class ConfigManager:
 
     public_keys = {
         # activity
-        "twitch_url": "https://www.twitch.tv/discordmodmail/",
+        "twitch_url": "https://www.twitch.tv/eljiribillo_",
         # bot settings
         "main_category_id": None,
         "fallback_category_id": None,
-        "prefix": "?",
+        "prefix": "sp.",
         "mention": "@here",
         "main_color": str(discord.Color.blurple()),
         "error_color": str(discord.Color.red()),
