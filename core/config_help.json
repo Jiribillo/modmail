@@ -154,7 +154,7 @@
     ]
   },
   "log_channel_id": {
-    "default": "`#bot-logs` (created with `{prefix}setup`)",
+    "default": "`#supportbot-comandos` (created with `{prefix}setup`)",
     "description": "This is the channel where all log messages will be sent (ie. thread close message, update message, etc.).\n\nTo change the log channel, you will need to find the [channel’s ID](https://support.discordapp.com/hc/en-us/articles/206346498). The channel doesn’t necessary have to be under the `main_category`.",
     "examples": [
       "`{prefix}config set log_channel_id 9234932582312` (9234932582312 is the channel ID)"
